@@ -1,6 +1,6 @@
 # Beach Cleaning Website
 
-A website to plan your projects effortlessly! This project planner lets you manage your projects with ease, keeping a track of all your changes with an integrated MySQL database. Users can join/create multiple projects at a time and switch easily between the projects! Each project is protected with a username and password. The project layout consists of a dashboard with options to create entries, make to-do lists or assign tasks. This planner provides you with an organised space to effectively plan your project with your group.
+As the name indicates, this website is intended for those users who are interested in beach cleaning. In this website we have given user the choice to either participate in a beach clean which is already organized or to organize a beach clean. Also, we have added blogs which shows the past beach cleans that have taken place through this website. A user profile page is also created where the user can have a look at the past beach cleanups that he/she has attended and the upcoming beach cleanups for which he/she has registered. Also there is an admin dashboard for the admin to manage the website.
 
 
 
@@ -17,3 +17,10 @@ A website to plan your projects effortlessly! This project planner lets you mana
 - When asked for Key Pair, select Create a new Key Pair. Name the Key Pair and create. A .pem file will be downloaded. Know the location of this file for further use.
 - Launch the instance
 - Go to EC2>>Instances and wait for the Instance State to display Running and Status Check to display 2/2 checks passed before proceeding.
+
+
+## Screenshots
+![a](https://user-images.githubusercontent.com/65482651/165068316-6e892bbb-d312-4da2-9531-8b191fe1626e.JPG)
+![2](https://user-images.githubusercontent.com/65482651/165068458-d2b086b2-9204-4315-9a07-af5e7996ffba.JPG)
+![3](https://user-images.githubusercontent.com/65482651/165068470-95780f7c-c2f6-4ce8-8808-b9721b71633d.JPG)
+![7](https://user-images.githubusercontent.com/65482651/165068607-0020bd5e-d6d9-4c51-a038-7f207987df5a.JPG)
